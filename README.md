@@ -31,7 +31,9 @@ This project was developed as part of our college academic work to gain practica
 1. Clone this repository:
 
    ```bash
-  https://github.com/shiv21s/My-Music/blob/main/MyMusicApp.java
+ https://github.com/shiv21s/My-Music
+
+ https://github.com/shiv21s/My-Music/blob/main/MyMusicApp.java
    ```
 
 2. Open the project folder in Visual Studio Code.
