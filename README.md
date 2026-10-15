@@ -31,7 +31,7 @@ This project was developed as part of our college academic work to gain practica
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+  https://github.com/shiv21s/My-Music/blob/main/MyMusicApp.java
    ```
 
 2. Open the project folder in Visual Studio Code.
@@ -77,4 +77,5 @@ Vishesh Rajani - Data handling & Testing
 ## 📄 License
 
 This project was developed for educational purposes as part of a college team project.
+
 © 2026 Music Streaming App Team. All rights reserved.
